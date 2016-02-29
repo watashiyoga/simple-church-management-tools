@@ -1,0 +1,1 @@
+Relational contact management tools.  Tools to track the involvement of those in the database.  The key will be simple interface that doesn't suffer from feature bloat.
